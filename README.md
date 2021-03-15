@@ -1,2 +1,2 @@
 # FaresG.github.io
-# Hello to my personal page
+# Welcome to my personal page
