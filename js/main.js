@@ -34,11 +34,6 @@
 		}
 	};
 
-	// Parallax
-	var parallax = function() {
-		$(window).stellar();
-	};
-
 	var contentWayPoint = function() {
 		var i = 0;
 		$('.animate-box').waypoint( function( direction ) {
@@ -140,7 +135,6 @@
 		goToTop();
 		loaderPage();
 		fullHeight();
-		parallax();
 		// pieChart();
 		skillsWayPoint();
 	});
